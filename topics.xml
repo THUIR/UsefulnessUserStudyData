@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+<topics>
+    <topic num="1">
+			<desc>小明所在的部门刚刚招聘了十个新员工，近期需要进行新员工培训。请查找一个适合新员工培训时采用，大约十人参与的破冰游戏的玩法</desc>
+			<init_query>破冰游戏</init_query>
+		</topic>
+		<topic num="2">
+			<desc>小明5月有一周的假期，想研究一下能去北京周边哪里旅行。请从花费（包括交通、住宿和娱乐），价值（度假时可以进行那些活动）和方便程度三方面考虑，选择一个合适的旅行目的地。</desc>
+			<init_query>北京度假旅行</init_query>
+		</topic>
+		<topic num="3">
+			<desc>小明在清华大学附近，想买一辆死飞自行车，请查找可能的购买渠道，注意事项和价格区间。</desc>
+			<init_query>死飞自行车</init_query>
+		</topic>
+		<topic num="4">
+			<desc>小明准备乘坐飞机去美国留学，他可能需要携带很多行李，所以他想研究一下国际航班对手提行李的重量限制体积限制，对托运行李的重量限制体积限制，手提行李中能携带多少液体，那些物品必须手提，那些物品必须托运等信息</desc>
+			<init_query>手提行李限制</init_query>
+		</topic>
+		<topic num="7">
+			<desc>小明的一个朋友想戒烟，所以他想知道戒烟的好处，戒烟的副作用，有哪些有效的戒烟方式等信息</desc>
+			<init_query>戒烟</init_query>
+		</topic>
+		<topic num="8">
+			<desc>小明听说谷歌推出了一款“谷歌眼镜”，他很感兴趣，请查找这种产品的功能、使用方式、售价等信息</desc>
+			<init_query>谷歌眼镜</init_query>
+		</topic>
+		<topic num="10">
+			<desc>小明想在香港购买一台iphone6，请查找国内和香港的iphone6的售价，如何在香港购买iphone，把iphone带回国内是否需要缴纳关税，港版iphone是否支持国内运营商网络等信息</desc>
+			<init_query>港版iphone6</init_query>
+		</topic>
+		<topic num="11">
+			<desc>冬天到了，小明想去游泳，请查找清华大学游泳馆的所在地、开放时间、学生票价格、办理游泳卡价格等信息</desc>
+			<init_query>清华大学游泳馆</init_query>
+		</topic>
+		<topic num="12">
+			<desc>小明最近对军事很感兴趣，所以他想知道中国第一艘航母辽宁号的信息。请帮他查找辽宁号的基本信息（如排水量，舰长，舷宽，船员人数，航速，武器装备等），辽宁号的历史，航母能起到的战略作用，相对于其他国家的航母，辽宁号的优势和劣势等信息</desc>
+			<init_query>辽宁号</init_query>
+		</topic>
+</topics>
